@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Projectmobile</string>
+    <string-array name="paymeny_array">
+        <item>เลือกวิธีการชำระเงิน</item>
+        <item>Paypal</item>
+        <item>บัตรเครดิต/เดบิต</item>
+        <item>ชำระเงินปลายทาง</item>
+    </string-array>
+
+    <string-array name="shipping_array">
+        <item>เลือกวิธีการจัดส่ง</item>
+        <item>ไปรษณีย์ไทย</item>
+        <item>Kerry</item>
+        <item>J and T</item>
+    </string-array>
+</resources>
